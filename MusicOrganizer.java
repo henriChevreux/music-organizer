@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * A class to hold details of audio tracks.
  * Individual tracks may be played.
  * 
- * @author David J. Barnes and Michael Kölling
+ * @author Henri Chevreux, David J. Barnes and Michael Kölling
  * @version 2016.02.29
  */
 public class MusicOrganizer
